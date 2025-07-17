@@ -1,8 +1,12 @@
 # Welcome to Pervudocs (Digital Library)
+</br>
 
 # 🗂️ Notes Library – Temporary Document Manager
 
 This project is a **full-stack web application** designed to serve as a temporary document management and preview platform.
+**Made with my partner AI.**
+
+</br>
 
 ## 📌 Key Features
 
@@ -11,6 +15,8 @@ This project is a **full-stack web application** designed to serve as a temporar
 - Temporarily stores files during a single session.
 - Designed for learning, organizing, and reviewing files in one place.
 - No user data is stored permanently.
+- 
+</br>
 
 ## 🚫 No Database / No Backend Storage
 
@@ -18,6 +24,8 @@ This project is a **full-stack web application** designed to serve as a temporar
 - All uploaded documents are **stored temporarily in the browser memory**.
 - Once you **refresh** or **exit** the page, the data is cleared.
 - This application is intended purely for **personal use**, **demo**, or **learning purposes**.
+
+</br>
 
 ## ⚙️ Built With
 
@@ -28,9 +36,13 @@ This project is a **full-stack web application** designed to serve as a temporar
 - shadcn-ui
 - Tailwind CSS
 
+</br>
+
 ## 🔒 Privacy Note
 
 > This platform **does not collect, save, or transmit** your documents to any external server. Files are only previewed on your system during the session.
+
+</br>
 
 ## 💡 Use Cases
 
@@ -39,20 +51,25 @@ This project is a **full-stack web application** designed to serve as a temporar
 - Practicing full-stack concepts without a database.
 - Helping students or developers test file upload/preview UI.
 
+</br>
+
 ## 🧑‍💻 Developer
 
 Created by ANAS – for educational and prototype purposes.  
 📧 Email: infodeveloper.mail@gmail.com
 
----
+</br>
 
 **⚠️ Disclaimer:**  
 This tool is **not intended for storing sensitive data** or production use. Use it only for local, temporary preview and learning activities.
 
+</br>
 
 ## Project info
 
-**URL**: url
+**URL**: [url](https://pervu-docs.vercel.app/)
+
+</br>
 
 Follow these steps:
 
@@ -69,6 +86,8 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+</br>
+
 
 ## What technologies are used for this project?
 
