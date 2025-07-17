@@ -15,7 +15,7 @@ This project is a **full-stack web application** designed to serve as a temporar
 - Temporarily stores files during a single session.
 - Designed for learning, organizing, and reviewing files in one place.
 - No user data is stored permanently.
-- 
+  
 </br>
 
 ## 🚫 No Database / No Backend Storage
@@ -75,7 +75,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone [<YOUR_GIT_URL>](https://github.com/itz-anas/PervuDocs)
 
 # Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
